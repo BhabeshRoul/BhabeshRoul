@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bhabesh Kumar ROUL</h1>
+<h1 align="center">Hi 👋, I'm Bhabesh Kumar Roul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhabeshroul&label=Profile%20views&color=129e00&style=plastic" alt="bhabeshroul" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
