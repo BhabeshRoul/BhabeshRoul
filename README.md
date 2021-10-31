@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhabesh Kumar ROUL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/8da45163336fc62161cd3ae7b302d925.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhabeshroul&label=Profile%20views&color=0e75b6&style=flat" alt="bhabeshroul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhabeshroul" alt="bhabeshroul" /></a> </p>
